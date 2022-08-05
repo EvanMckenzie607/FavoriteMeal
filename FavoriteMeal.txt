@@ -1,4 +1,5 @@
 Cody V:Tikka Masala
+Jeremy: Sushi
 Jose S:Korean Bbq
 Evan: Rueben 
 Eddie Z:Chicken Shwarama
@@ -10,3 +11,4 @@ Ihab: sushi
 Amr Yousry: Burger with feta cheese and pastrami
 Ashley: Sushi
 Ali M: Steak
+
