@@ -1,4 +1,5 @@
 Cody V:Tikka Masala
+Marias L: Spaghetti
 Jennie D: Sushi
 Yun J: Rice cake
 Casey: Steak  and potatoes
@@ -6,5 +7,6 @@ Ihab: sushi
 Amr Yousry: Burger with feta cheese and pastrami
 Ashley: Sushi
 Ali M: Steak
+
 
 
